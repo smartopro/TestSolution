@@ -33,7 +33,7 @@ namespace ConsoleTestProject
                     op = Mul;
                     break;
                 default:
-                    Console.WriteLine("Ошибка ввода.");
+                    Console.WriteLine("Ошибка ввода!");
                     op = null;
                     break;
             }
